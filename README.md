@@ -1,4 +1,4 @@
-⚡ Software Engineer | NestJs | React Native | Java | React | MySQL | Postgres | Prisma | TypeScript | NextJs | PHP
+⚡ Software Engineer
 
 
 ## 🌐 Socials:
