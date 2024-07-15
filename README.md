@@ -1,8 +1,4 @@
 
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/manjjack/manjjack/assets/97697928/2c964a53-346e-4bab-b7ff-67ca000100d4" />
-&nbsp;&nbsp;&nbsp;
-
-
 <p align="center">⚡ Software Engineer <br><br> I'm a passionate software developer dedicated to tackling technical challenges and applying innovative solutions. I'm keen on enhancing both my technical and managerial skills to drive projects effectively.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
