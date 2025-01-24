@@ -2,7 +2,7 @@
 <p align="center">⚡ Software Engineer <br><br> I'm a passionate software developer dedicated to tackling technical challenges and applying innovative solutions. I'm keen on enhancing both my technical and managerial skills to drive projects effectively.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=manjjack&theme=radical&mode=weekly" />
+
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=manjjack&show_icons=true&theme=radical&layout=compact" />
  </div>
  
